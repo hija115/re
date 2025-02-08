@@ -1,7 +1,7 @@
 # REtunnel by:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kiritahina/RE/refs/heads/main/image/logo.png" alt="edgetunnel" style="margin-bottom: -50px;">
+  <img src="https://raw.githubusercontent.com/hija115/re/refs/heads/main/image/logo.png" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
 REtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。
@@ -42,7 +42,7 @@ REtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multi
 
 2. 或者点击下方按钮一键部署 | Or click the button below to deploy directly:
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kiritahina/RE)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hija115/re)
 
 ## ⚙️ 配置说明 | Configuration Guide
 
